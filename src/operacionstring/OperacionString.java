@@ -36,5 +36,4 @@ public class OperacionString {
         }
         return result.toString();
     }
-
 }
